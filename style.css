@@ -32,7 +32,7 @@ p {
 
 .links {
     float: left;
-    color:
+    color: blue;
         padding-top: 5px;
     padding-left: 9px;
     padding-right: 9px;
@@ -43,7 +43,7 @@ p {
 
 .links:hover {
     background-color: darkslateblue;
-    color:
+    color: red;
         font-size: 22px;
     font-family: 'Gloria Hallelujah', cursive;
 }
@@ -57,7 +57,7 @@ html {
     scroll-behavior: smooth;
 }
 
-}
+
 
 .article img {
     border-radius: 10%;
